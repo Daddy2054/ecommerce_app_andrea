@@ -10,7 +10,7 @@ This will include a full-stack eCommerce app using Flutter & Firebase:
 
 ## Project Setup
 
-To clone the repo for the first time and open it in VSCode, run this:
+To clone the repo for the first time and open it in VSCode, run this: 
 
 ```
 git clone https://github.com/bizz84/flutter-firebase-masterclass.git
