@@ -22,7 +22,7 @@ This will checkout the `main` branch which contains the **latest code**.
 
 But at various points in the course, I'll ask you to checkout a **specific branch name**, so you can follow along with the right code, at the right time.
 
-And to prevent any conflicts, you may need to reset your local changes:
+And to prevent any conflicts, you may need to reset your local changes: 
 
 ```
 git reset --hard HEAD
